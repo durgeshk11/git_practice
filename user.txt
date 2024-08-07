@@ -1,9 +1,0 @@
-class user{}[D
-
-[A[A[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[
- public static void main(){[D[DString args[]){
-   System.out.println("User class added");
-   System.out.println()[D"Second line from user class");
- }
-}
